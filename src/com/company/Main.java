@@ -12,5 +12,8 @@ public class Main {
         System.out.println("1.ชื่อ " + Pun.name);
         System.out.println("2.รหัสนักศึกษา " + Pun.id);
         System.out.println("3.สาขา " + Pun.major);
+
+
+        
     }
 }
